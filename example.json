@@ -1,0 +1,67 @@
+{
+  "theName": "Colombia Natural Light",
+  "dose": 15.0,
+  "grandWater": 17.0,
+  "grinderSize": 63.0,
+  "rpm": 120,
+  "cupType": 2,
+  "adaptedModel": 1,
+  "isEnableBypassWater": 2,
+  "isSetGrinderSize": 1,
+  "theColor": "#BCB590",
+  "theSubsetId": 0,
+  "bypassTemp": 92.0,
+  "bypassVolume": 0.0,
+  "pourList": [
+    {
+      "theName": "Bloom",
+      "volume": 50.0,
+      "temperature": 95.0,
+      "flowRate": 3.0,
+      "pattern": 3,
+      "pausing": 20,
+      "isEnableVibrationBefore": 2,
+      "isEnableVibrationAfter": 1
+    },
+    {
+      "theName": "Pour1",
+      "volume": 55.0,
+      "temperature": 94.0,
+      "flowRate": 3.5,
+      "pattern": 2,
+      "pausing": 8,
+      "isEnableVibrationBefore": 2,
+      "isEnableVibrationAfter": 2
+    },
+    {
+      "theName": "Pour2",
+      "volume": 50.0,
+      "temperature": 94.0,
+      "flowRate": 3.5,
+      "pattern": 3,
+      "pausing": 10,
+      "isEnableVibrationBefore": 2,
+      "isEnableVibrationAfter": 2
+    },
+    {
+      "theName": "Pour3",
+      "volume": 50.0,
+      "temperature": 93.0,
+      "flowRate": 3.5,
+      "pattern": 3,
+      "pausing": 13,
+      "isEnableVibrationBefore": 2,
+      "isEnableVibrationAfter": 2
+    },
+    {
+      "theName": "Pour4",
+      "volume": 50.0,
+      "temperature": 93.0,
+      "flowRate": 3.5,
+      "pattern": 3,
+      "pausing": 13,
+      "isEnableVibrationBefore": 1,
+      "isEnableVibrationAfter": 1
+    }
+  ]
+}
